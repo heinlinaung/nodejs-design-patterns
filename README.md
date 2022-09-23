@@ -14,7 +14,7 @@
 - [x] Proxy
 - [ ] Adapter
 - [x] Composite
-- [ ] Decorator
+- [x] Decorator
 ---
 ### Behavioral Patterns
 - [ ] Command
