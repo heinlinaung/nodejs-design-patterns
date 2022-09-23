@@ -13,7 +13,7 @@
 ### Structural Patterns
 - [x] Proxy
 - [ ] Adapter
-- [ ] Composite
+- [x] Composite
 - [ ] Decorator
 ---
 ### Behavioral Patterns
