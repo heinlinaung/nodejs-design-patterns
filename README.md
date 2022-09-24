@@ -18,7 +18,7 @@
 ---
 ### Behavioral Patterns
 - [x] Chain of responsibility
-- [ ] Command
+- [x] Command
 - [ ] Iterator
 - [ ] Observer
 - [ ] Strategy
