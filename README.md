@@ -12,7 +12,7 @@
 ---
 ### Structural Patterns
 - [x] Proxy
-- [ ] Adapter
+- [x] Adapter
 - [x] Composite
 - [x] Decorator
 ---
