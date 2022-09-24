@@ -17,6 +17,7 @@
 - [x] Decorator
 ---
 ### Behavioral Patterns
+- [x] Chain of responsibility
 - [ ] Command
 - [ ] Iterator
 - [ ] Observer
