@@ -20,5 +20,5 @@
 - [x] Chain of responsibility
 - [x] Command
 - [x] Iterator
-- [ ] Observer
+- [x] Observer
 - [ ] Strategy
