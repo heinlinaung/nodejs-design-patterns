@@ -21,4 +21,4 @@
 - [x] Command
 - [x] Iterator
 - [x] Observer
-- [ ] Strategy
+- [x] Strategy
