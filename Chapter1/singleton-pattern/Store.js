@@ -1,10 +1,8 @@
-var Logger = require('./Logger');
-
-var logger = new Logger();
+var logger = require('./Logger');
 
 class Store {
 
-    constructor(name, inventory=[]) {
+    constructor(name, inventory = []) {
         this.name = name;
         this.inventory = inventory;
         logger.log(`New Store: ${name} has ${inventory.length} items in stock.`);
