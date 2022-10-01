@@ -5,7 +5,7 @@
 
 ## Progress
 ### Creational Patterns
-- [ ] Singleton
+- [x] Singleton
 - [ ] Prototype
 - [ ] Factory
 - [ ] Builder
